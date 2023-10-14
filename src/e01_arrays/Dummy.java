@@ -14,6 +14,10 @@ public class Dummy {
 
     System.out.println("change 3.0");
 
+    /**
+     * This is a comment, used in try_stash branch
+     */
+
 
   }
 
