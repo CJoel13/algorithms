@@ -8,6 +8,11 @@ public class DummyToGitHub {
     /*
      * A change without stage
      */
+    
+    
+    /**
+     * Changes to send to stash
+     */
   }
   
 

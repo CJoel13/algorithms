@@ -24,6 +24,10 @@ public class E02_TwoSum {
       }
     }
     
+    /**
+     * Changes in current
+     */
+    
     return null;
   }
 
